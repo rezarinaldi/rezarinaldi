@@ -1,5 +1,4 @@
-<p align="center"><img width="300" src="https:/
-/images5.alphacoders.com/129/1297751.png" /></p>
+<p align="center"><img width="300" src="shiraishi_junta.png"><p>
 
 ### Hi there! 👋 I'm Reza.
 
