@@ -2,10 +2,12 @@
 
 ### Hi there! 👋 I'm Reza.
 
-> 🎓 Fresh Graduate from State Polytechnic of Malang.
-
-> 💻 Mainly working on frontend web dev related stuff with JavaScript or TypeScript (still learning), also like to learning mobile dev using Flutter whenever I feel like it.
-
+> 🎓 Bachelor of Applied Science - BASc, Informatics from State Polytechnic of Malang.
+>
+> 💻 I’m a Personal Assistant at [Devscale Indonesia](https://github.com/Devscale-Indonesia).
+>
+> 👨🏻‍💻 Mainly working on frontend web dev related stuff with JavaScript or TypeScript (still learning), also like to learning mobile dev using Flutter whenever I feel like it.
+>
 > 🔊 Speaks Bahasa Indonesia, currently learning Arabic, English, & Japanese.
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F50363?logo=Instagram&logoColor=white)](https://www.instagram.com/rez4rinaldi/?hl=ja)
