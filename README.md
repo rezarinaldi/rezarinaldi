@@ -2,9 +2,9 @@
 
 ### Hi there! 👋 I'm Reza.
 
-> 🎓 Bachelor of Applied Science - BASc, Informatics from State Polytechnic of Malang.
+> 🎓 Bachelor of Applied Science - BASc, Informatics from [State Polytechnic of Malang](https://www.polinema.ac.id/).
 >
-> 💻 I’m a Personal Assistant at [Devscale Indonesia](https://github.com/Devscale-Indonesia).
+> 💻 I’m a Mentor Assistant at [Devscale Indonesia](https://github.com/Devscale-Indonesia).
 >
 > 👨🏻‍💻 Mainly working on frontend web dev related stuff with JavaScript or TypeScript (still learning), also like to learning mobile dev using Flutter whenever I feel like it.
 >
