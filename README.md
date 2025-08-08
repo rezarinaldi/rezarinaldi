@@ -4,7 +4,7 @@
 
 > 🎓 Bachelor of Applied Science - BASc, Informatics from [State Polytechnic of Malang](https://www.polinema.ac.id/).
 >
-> 💻 I’m a Ex Mentor Assistant at [Devscale Indonesia](https://github.com/Devscale-Indonesia).
+> 💻 I’m a Former Mentor Assistant at [Devscale Indonesia](https://github.com/Devscale-Indonesia).
 >
 > 👨🏻‍💻 Mainly working on frontend web dev related stuff with JavaScript or TypeScript (still learning), also like to learning mobile dev using Flutter whenever I feel like it.
 >
@@ -15,4 +15,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=Linkedin&logoColor=white)](https://linkedin.com/in/rez4rinaldi)
 
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezarinaldi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1D282A)
+
 
